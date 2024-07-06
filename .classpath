@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="COMP47580-2023-2024-UBCF/src"/>
+	<classpathentry kind="output" path="COMP47580-2023-2024-UBCF/bin"/>
+</classpath>
